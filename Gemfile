@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem "font-awesome-rails"
 gem 'bootstrap-sass'
 gem 'autoprefixer-rails'
 
